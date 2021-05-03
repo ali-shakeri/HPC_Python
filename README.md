@@ -9,7 +9,7 @@
   - Some problems for benchmarking (Diffusion Eq., Numerical integration, ...)
  
 ## Exercise session 
-  - profile your code
+  - Profile your code
   
 ## Part II: Data structures in Python
   - lists, tuples, dictionaries, sets, ...
