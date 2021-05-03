@@ -1,6 +1,6 @@
 # High Performance Computing in Python
 
-## Part I: Introduction     (1 hour)
+## Part I: Introduction
   - Why Python is slower than C/C++?
   - Why should we use Python?
   - CPU-bounded vs memory-bounded problems
